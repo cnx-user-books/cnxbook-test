@@ -1,0 +1,336 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Scatterplot Data and its Trends: Lessons 9.C - 9.D</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m78678</md:content-id>
+  <md:title>Scatterplot Data and its Trends: Lessons 9.C - 9.D</md:title>
+  <md:abstract>In this section, you will:
+<list>
+<item>Draw and interpret scatter plots.</item>
+<item>Find the line of best fit.</item>
+<item>Distinguish between linear and nonlinear relations.</item>
+<item>Use a linear model to make predictions.</item>
+</list>
+This correlates to Lessons 9A-D of Corequisite MAT 1043(QR) and NCBO.</md:abstract>
+  <md:uuid>7ace7181-09c3-4720-bbec-be21765eaf79</md:uuid>
+</metadata>
+
+<content>
+
+<note id="eip-834"><label>Topics Covered in this Module</label>
+<para id="eip-idm872826464">In case you missed something in class, or just want to review a specific topic covered in this Module, here is a list of topics covered:</para>
+<list id="eip-idm309106208" list-type="enumerated" number-style="arabic"><item>Univariate Vs. Biavariate Data <link document="" target-id="eip-330"/></item>
+<item>Drawing and Interpreting Scatterplots <link document="" target-id="fs-id1165137557592"/></item>
+<item>Finding the Line of Best Fit <link document="" target-id="fs-id1165135623674"/></item>
+<item>Distinguishing between Linear and Non-Linear Models <link document="" target-id="fs-id1165137594434"/></item>
+<item>Predicting with a Regression Line <link document="" target-id="fs-id1165137731906"/></item>
+
+<item>Key Concepts  <link document="" target-id="fs-id1165137619593"/></item>
+</list></note><section id="eip-330"><title>Univariate Vs. Bivariate Data <footnote id="eip-idm286067104"> This material was created by Amanda Towry .</footnote></title><para id="eip-486"><title>Univariate Data</title><term>Univariate</term> means "one variable". 
+<list id="eip-idm1171045216"><item>Involves a single variable</item>
+<item>Does not deal with causes or relationships.</item>
+<item>Allows for the description of data collected.</item>
+<item>Is quantitative in nature</item>
+<item>Uses measures of central tendencies such as the mean, median, mode, quartiles, and the standard deviation</item>
+<item>Results can be shown in Bar graphs, Histograms, Pie charts, Line graphs, and Box plots.
+
+</item></list></para><para id="eip-745"><title>Bivariate Data</title><term>Bivariate</term> means "two variables".
+<list id="eip-idm967671456"><item>Involves two variables.</item>
+<item>Deals with causes or relationships.</item>
+<item>Allows for explanation of data</item>
+<item>Uses analysis of two variables separately but simultaneously</item>
+<item>Uses correlation between two variables</item>
+<item>Develops comparisons, relationships, causes, and explanations.</item>
+<item>Results can be shown in tables where one variable is dependent on the values of another variable</item>
+</list></para></section><section id="eip-72"><title>What is a Scatter Plot?</title><para id="eip-253">A scatter plot is a data graph that uses points to represent the relationship between two variables of interest. Although the horizontal axis is still associated with the independent variable and the vertical axis with the dependent variable, they do not have the same assumed relationship we normally think of with more common data graphs. Instead, by using a scatter plot, we are attempting to <emphasis>infer</emphasis> a relationship between the two variables. 
+</para><para id="eip-229">The figure below is an example of a scatter plot modeling how time spent studying compares to exam scores.</para><figure id="eip-idm833622976">
+<media id="scatterplot1" alt="scatterplot of time spent studying versus exam grade">
+<image mime-type="image/jpeg" src="../../media/SP1.png"/>
+</media>
+</figure><para id="eip-603">Many people would want to immediately say that more time spent studying <emphasis>causes</emphasis> higher exam scores. However, when we are using scatterplots in the coming sections, it is important that they should never be read as a definite relationship. Instead of a <emphasis>cause</emphasis> we must emphasize a <emphasis>correlation</emphasis> instead.</para><para id="eip-825"><emphasis>Correlation</emphasis> is a description and measure of how well the change in two separate variables match with each other. Correlation between two variables does not mean that one necessarily causes the other. Thus, in the math world, we emphasize that <emphasis>"Correlation does not equal causation."</emphasis></para></section><section id="fs-id1165137557592"><title>Drawing and Interpreting Scatter Plots <footnote id="eip-idm924810480">Section material derived from Openstax Precalculus: Linear Functions-Fitting Linear Models to Data</footnote></title><para id="fs-id1165135262700">A <term class="no-emphasis">scatter plot</term> is a graph of plotted points that may show a relationship between two sets of data. If the relationship is from a <term class="no-emphasis">linear model</term>, or a model that is nearly linear, the professor can draw conclusions using his knowledge of linear functions. <link target-id="CNX_Precalc_Figure_02_04_001"/> shows a sample scatter plot.</para>
+
+<figure id="CNX_Precalc_Figure_02_04_001" class="medium"><media id="fs-id1165137660654" alt="Scatter plot, titled 'Final Exam Score VS Age'. The x-axis is the age, and the y-axis is the final exam score. The range of ages are between 20s - 50s, and the range for scores are between upper 50s and 90s.">
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_001.jpg"/>
+</media>
+  
+<caption>A scatter plot of age and final exam score variables</caption></figure><para id="fs-id1165137658014">Notice this scatter plot does <emphasis effect="italics">not</emphasis> indicate a <term class="no-emphasis">linear relationship</term>. The points do not appear to follow a trend. In other words, there does not appear to be a relationship between the age of the student and the score on the final exam.</para>
+
+<example id="Example_02_04_01"><title>Using a Scatter Plot to Investigate Cricket Chirps</title><exercise id="fs-id1165137393214"><problem id="fs-id1165137735052">
+
+<para id="fs-id1165137874471"><link target-id="Table_02_04_01"/> shows the number of cricket chirps in 15 seconds, for several different air temperatures, in degrees Fahrenheit<footnote id="fs-id1165137782397">Selected data from http://classic.globe.gov/fsl/scientistsblog/2007/10/. Retrieved Aug 3, 2010</footnote>. Plot this data, and determine whether the data appears to be linearly related.</para>
+
+  <table id="Table_02_04_01" summary="Two rows and ten columns. The first row is labeled, 'chirps'. The second row is labeled is labeled, 'Temp'. Reading the remaining rows as ordered pairs (i.e., (chirps, Temp), we have the following values: (44, 80.5), (35, 70.5), (20.4, 57), (33, 66), (31, 68), (35, 72), (18.5, 52), (37, 73.5) and (26, 53).">
+<tgroup cols="10"><colspec colnum="1" colname="c1" colwidth="10%"/>
+<colspec colnum="2" colname="c2" colwidth="10%"/>
+<colspec colnum="3" colname="c3" colwidth="10%"/>
+<colspec colnum="4" colname="c4" colwidth="10%"/>
+<colspec colnum="5" colname="c5" colwidth="10%"/>
+<colspec colnum="6" colname="c6" colwidth="10%"/>
+<colspec colnum="7" colname="c7" colwidth="10%"/>
+<colspec colnum="8" colname="c8" colwidth="10%"/>
+<colspec colnum="9" colname="c9" colwidth="10%"/>
+<colspec colnum="10" colname="c10" colwidth="10%"/>
+<tbody>
+<row>
+<entry><emphasis>Chirps</emphasis></entry>
+<entry>44</entry>
+<entry>35</entry>
+<entry>20.4</entry>
+<entry>33</entry>
+<entry>31</entry>
+<entry>35</entry>
+<entry>18.5</entry>
+<entry>37</entry>
+<entry>26</entry>
+</row>
+<row>
+<entry><emphasis>Temperature</emphasis></entry>
+<entry>80.5</entry>
+<entry>70.5</entry>
+<entry>57</entry>
+<entry>66</entry>
+<entry>68</entry>
+<entry>72</entry>
+<entry>52</entry>
+<entry>73.5</entry>
+<entry>53</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></problem>
+<solution id="fs-id1165137734520">
+<para id="fs-id1165137430969">Plotting this data, as depicted in <link target-id="CNX_Precalc_Figure_02_04_002"/> suggests that there may be a trend. We can see from the trend in the data that the number of chirps increases as the temperature increases. The trend appears to be roughly linear, though certainly not perfectly so.</para>
+<figure id="CNX_Precalc_Figure_02_04_002">
+<media id="fs-id1165137550269" alt="Scatter plot, titled 'Cricket Chirps Vs Air Temperature'. The x-axis is the Cricket Chirps in 15 Seconds, and the y-axis is the Temperature (F). The line regression is generally positive.">
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_002.jpg"/>
+</media>
+</figure>
+</solution>
+</exercise>
+</example><para id="eip-142">A scatter plot shows the <emphasis>direction</emphasis> of a relationship between the variables. A clear direction happens when there is either:
+<list id="list1" list-type="bulleted">
+<item>High values of one variable occurring with high values of the other variable or low values of one variable occurring with low values of the other variable.</item>
+<item>High values of one variable occurring with low values of the other variable.</item>
+</list></para><para id="eip-337">You can determine the <emphasis effect="bold">strength</emphasis> of the relationship by looking at the scatter plot and seeing how close the points are to a line, a power function, an exponential function,
+or to some other type of function.  For a linear relationship there is an exception. Consider a scatter plot where all the points fall on a horizontal line providing a "perfect fit." The horizontal line would in fact show no relationship.</para><para id="eip-234">When you look at a scatterplot, you want to notice the <emphasis>overall pattern</emphasis> and any <emphasis>deviations</emphasis> from the pattern. The following scatterplot examples illustrate these concepts.</para><figure id="eip-idm401974208"><media id="id1171450550347" alt="The first graph is a scatter plot with 6 points plotted. The points form a pattern that moves upward to the right, almost in a straight line. The second graph is a scatter plot with the same 6 points as the first graph. A 7th point is plotted in the top left corner of the quadrant. It falls outside the general pattern set by the other 6 points."><image src="../../media/fig-ch12_04_02.jpg" mime-type="image/jpeg" width="380"/>
+</media>
+<caption>The points lie close to a  straight line, which has a positive slope. This shows that as one variable <emphasis>increases</emphasis> (the independent variable), the other <emphasis>increases</emphasis> as well (dependent variable).</caption></figure>
+<figure id="eip-idm1078127008"><media id="id1171453496318" alt="The first graph is a scatter plot with 6 points plotted. The points form a pattern that moves downward to the right, almost in a straight line. The second graph is a scatter plot of 8 points. These points form a general downward pattern, but the point does not align in a tight pattern."><image src="../../media/fig-ch12_04_03.jpg" mime-type="image/jpeg" width="380"/>
+</media>
+<caption>(a) The points lie close to a straight line, which has a negative slope. This shows that as one variable <emphasis>increases</emphasis> (the independent variable), the other <emphasis>decreases</emphasis> (the dependent variable).</caption></figure>
+<figure id="eip-idm1361426944">
+<media id="id1171454842074" alt="The first graph is a scatter plot of 7 points in an exponential pattern. The pattern of the points begins along the x-axis and curves steeply upward to the right side of the quadrant. The second graph shows a scatter plot with many points scattered everywhere, exhibiting no pattern.">
+<image src="../../media/fig-ch12_04_04.jpg" mime-type="image/jpeg" width="380"/>
+</media>
+</figure><para id="eip-555">When a scatter plot is constructed, the behavior of the data can be said to have a correlation.</para>
+
+<figure id="eip-idm1298659680">
+<media id="correlationscatterplots" alt="various examples of types of correlation">
+<image mime-type="image/jpeg" src="../../media/Correlation1.png"/>
+</media>
+</figure><para id="eip-106">Correlation is a way to define the relationship between the variables being compared.</para></section><section id="fs-id1165135623674"><title>Finding the Line of Best Fit <footnote id="eip-idm1275506432">Section material derived from Openstax Precalculus: Linear Functions-Fitting Linear Models to Data</footnote></title><para id="fs-id1165135443922">Once we recognize a need for a linear function to model that data, the natural follow-up question is “what is that linear function?” One way to approximate our linear function is to sketch the line that seems to best fit the data. Then we can extend the line until we can verify the <emphasis effect="italics">y</emphasis>-intercept. We can approximate the slope of the line by extending it until we can estimate the <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>rise</m:mtext></m:mrow><m:mrow><m:mtext>run</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+
+<example id="Example_02_04_02"><title>Finding a Line of Best Fit</title><exercise id="fs-id1165135441718"><problem id="fs-id1165137416925">
+
+<para id="fs-id1165137460357">Find a linear function that fits the data in <link target-id="Table_02_04_01"/> by “eyeballing” a line that seems to fit.</para>
+</problem>
+<solution id="fs-id1165134104062">
+<para id="fs-id1165137507732">On a graph, we could try sketching a line. </para>
+<para id="fs-id1165137581362">Using the starting and ending points of our hand drawn line, points (0, 30) and (50, 90), this graph has a slope of</para>
+
+<equation id="fs-id1165137736934" class="unnumbered"><label/><m:math display="block"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>60</m:mn></m:mrow><m:mrow><m:mn>50</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>1.2</m:mn></m:mrow></m:math></equation>
+
+<para id="fs-id1165135536506">and a <emphasis effect="italics">y</emphasis>-intercept at 30. This gives an equation of</para>
+
+<equation id="fs-id1165137803698" class="unnumbered"><label/><m:math display="block"><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">(</m:mo><m:mi>c</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>1.2</m:mn><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>30</m:mn></m:mrow></m:math></equation>
+
+<para id="fs-id1165137573540">where <m:math><m:mi>c</m:mi></m:math> is the number of chirps in 15 seconds, and <m:math><m:mrow><m:mi>T</m:mi><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> is the temperature in degrees Fahrenheit. The resulting equation is represented in <link target-id="CNX_Precalc_Figure_02_04_003"/>.</para><figure id="CNX_Precalc_Figure_02_04_003">
+<media id="fs-id1165137530089" alt="Scatter plot, showing the line of best fit. It is titled 'Cricket Chirps Vs Air Temperature'. The x-axis is  'c, Number of Chirps', and the y-axis is 'T(c), Temperature (F)'.">
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_003.jpg"/>
+</media>
+</figure>
+</solution>
+<commentary id="fs-id1165137606193">
+<title>Analysis</title>
+<para id="fs-id1165137745268">This linear equation can then be used to approximate answers to various questions we might ask about the trend.</para>
+</commentary>
+</exercise>
+</example></section><section id="eip-663"><title>Interpreting the Line of Best Fit<footnote id="eip-idm199954128">Section material created by Amanda Towry</footnote></title><para id="eip-238">When a line of best fit is applied to a scatterplot, there are a couple of mathematical values that give quite a bit of information about the data relationship and what it means. </para><para id="eip-28"><title>Coefficient of Determination</title>When a trend line is first calculated by Excel for a scatter plot, it can apply an equation to the graph. The equation defines the line created for the data behavior and is accompanied by another value of 
+<m:math>
+<m:ci>
+<m:msup>
+<m:mi>R</m:mi>
+<m:mn>2</m:mn>
+</m:msup>
+</m:ci>
+</m:math>
+<figure id="eip-idm1083144336"><media id="scatterplotregression" alt="scatterplot with regression line and equation for the regression line">
+<image mime-type="image/jpeg" src="../../media/SP2.png"/>
+</media>
+<caption>Notice in the upper right there is an equation with a value below of r squared. This is the coefficient of determination.</caption></figure><emphasis>Coefficient of Determination</emphasis> is a value <m:math><m:ci><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:ci></m:math>, between 0 and 1, that gives a numerical description of how well the regression model fits or predicts the data it was derived from.
+<list id="eip-idm1672353168"><item>When <m:math><m:ci><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:ci></m:math> is close to <m:math><m:mn>0</m:mn></m:math>: the regression model does not fit the data at all.</item>
+<item>When <m:math><m:ci><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:ci></m:math> is close to <m:math><m:mn>1</m:mn></m:math>: the regression model fits the data exactly.</item>
+<item>Is the square of the correkation coefficient.</item>
+<item>Is <emphasis>always</emphasis> a positive value.</item></list>
+
+<figure id="eip-idm683892832">
+<media id="coefficientofdetermination" alt="a graphical description of the coefficient of determination">
+<image mime-type="image/jpeg" src="../../media/Correlation2.png"/>
+</media>
+</figure></para><para id="eip-950"><title>Correlation Coefficient</title>The correlation coefficient isn't given to you automatically when you are analyzing linear data with Excel. You must calculate it from the data you <emphasis>are</emphasis> given. Taking the square root of the coefficient of determination will give you the magnitude of the correlation coefficient. However, you must pay attention to the trend of the data to determine whether it is a negative or positive value. The slope of the line gives you a hint.
+
+<equation id="eip-idm1030186560"><m:math><m:mtext>r</m:mtext><m:mo>=</m:mo><m:msqrt><m:ci><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:ci></m:msqrt></m:math>
+</equation>
+
+The <term>correlation coefficient</term> is a value,<m:math><m:mrow><m:mi>r</m:mi><m:mo>,</m:mo></m:mrow></m:math> between –1 and 1.
+<list id="eip-id1165133093343" list-type="bulleted">
+<item><emphasis effect="italics">r</emphasis> &gt; 0 suggests a positive (increasing) relationship</item>
+<item><emphasis effect="italics">r</emphasis> &lt; 0 suggests a negative (decreasing) relationship</item>
+<item>The closer the value is to 0, the more scattered the data.</item>
+<item>The closer the value is to 1 or –1, the less scattered the data is.</item>
+</list>
+<figure id="eip-idm1114218240">
+<media id="correlationcoefficient" alt="a graphical description of the correlation coefficient">
+<image mime-type="image/jpeg" src="../../media/Correlation3.png"/>
+</media>
+</figure></para></section><section id="fs-id1165137594434"><title>Distinguishing Between Linear and Non-Linear Models <footnote id="eip-idm355213008">Section material derived from Openstx Precalculus: Linear Functions-Fitting Linear Models to Data</footnote></title><para id="fs-id1165135160844">As we saw above with the cricket-chirp model, some data exhibit strong linear trends, but other data, like the final exam scores plotted by age, are clearly nonlinear. Most calculators and computer software can also provide us with the <emphasis>correlation coefficient</emphasis>, which is a measure of how closely the line fits the data. Many graphing calculators require the user to turn a ”diagnostic on” selection to find the correlation coefficient, which mathematicians label as <m:math><m:mrow><m:mi>r</m:mi><m:mo>.</m:mo></m:mrow></m:math> The correlation coefficient provides an easy way to get an idea of how close to a line the data falls.</para>
+<para id="fs-id1165134164016">We should compute the correlation coefficient only for data that follows a linear pattern or to determine the degree to which a data set is linear. If the data exhibits a nonlinear pattern, the correlation coefficient for a linear regression is meaningless. To get a sense for the relationship between the value of <m:math><m:mi>r</m:mi></m:math> and the graph of the data, <link target-id="CNX_Precalc_Figure_02_04_007"/> shows some large data sets with their correlation coefficients. Remember, for all plots, the horizontal axis shows the input and the vertical axis shows the output.</para>
+
+<figure id="CNX_Precalc_Figure_02_04_007">
+<media id="fs-id1165137731415" alt="">
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_007.jpg"/>
+</media>
+<caption>Plotted data and related correlation coefficients. (credit: “DenisBoigelot,” Wikimedia Commons)</caption>
+</figure>
+
+</section><section id="fs-id1165137731906"><title>Predicting with a Regression Line  <footnote id="eip-idm1301932720">Section material derived from Openstax Precalculus: Linear Functions-Fitting Linear Models to Data</footnote></title><para id="fs-id1165137436049">Once we determine that a set of data is linear using the correlation coefficient, we can use the regression line to make predictions. As we learned above, a regression line is a line that is closest to the data in the scatter plot, which means that only one such line is a best fit for the data.</para>
+
+<example id="Example_02_04_06"><title>Using a Regression Line to Make Predictions</title><exercise id="fs-id1165137571292"><problem id="fs-id1165135546014">
+ 
+  <para id="fs-id1165135191292">Gasoline consumption in the United States has been steadily increasing. Consumption data from 1994 to 2004 is shown in <link target-id="Table_02_04_03"/><footnote id="ch02mod04_fn1">http://www.bts.gov/publications/national_transportation_statistics/2005/html/table_04_10.html</footnote>.  Determine whether the trend is linear, and if so, find a model for the data. Use the model to predict the consumption in 2008.</para>
+
+<table id="Table_02_04_03" summary="Two rows and twelve columns. The first row is labeled, 'Year'. The second row is labeled is labeled, 'Consumption (billions of gallons)'. Reading the remaining rows as ordered pairs (i.e., (Year, Consumption), we have the following values: ('94, 113), ('95, 116), ('96, 118), ('97, 119), ('98, 123), ('99, 125), ('00, 126), ('01, 128), ('02, 131), ('03, 133), and ('04, 136).">
+<tgroup cols="12"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<colspec colnum="9" colname="c9"/>
+<colspec colnum="10" colname="c10"/>
+<colspec colnum="11" colname="c11"/>
+<colspec colnum="12" colname="c12"/>
+<tbody>
+<row>
+<entry><emphasis>Year</emphasis></entry>
+<entry>'94</entry>
+<entry>'95</entry>
+<entry>'96</entry>
+<entry>'97</entry>
+<entry>'98</entry>
+<entry>'99</entry>
+<entry>'00</entry>
+<entry>'01</entry>
+<entry>'02</entry>
+<entry>'03</entry>
+<entry>'04</entry>
+</row>
+<row>
+<entry><emphasis>Consumption (billions of gallons)</emphasis></entry>
+<entry>113</entry>
+<entry>116</entry>
+<entry>118</entry>
+<entry>119</entry>
+<entry>123</entry>
+<entry>125</entry>
+<entry>126</entry>
+<entry>128</entry>
+<entry>131</entry>
+<entry>133</entry>
+<entry>136</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-id1165135560788">The scatter plot of the data, including the least squares regression line, is shown in <link target-id="CNX_Precalc_Figure_02_04_008"/>.</para>
+
+<figure id="CNX_Precalc_Figure_02_04_008" class="small">
+<media id="fs-id1165137437764" alt="Scatter plot, showing the line of best fit. It is titled 'Gas Consumption VS Year'. The x-axis is  'Year After 1994', and the y-axis is 'Gas Consumption (billions of gallons)'.">
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_02_04_008.jpg"/>
+</media>
+</figure>
+</problem>
+<solution id="fs-id1165137605608">
+<para id="fs-id1165137767360">We can introduce new input variable, <m:math><m:mrow><m:mi>t</m:mi><m:mo>,</m:mo></m:mrow></m:math>representing years since 1994.</para>
+<para id="fs-id1165137552875">The least squares regression equation is:</para>
+<equation id="fs-id1165137694214" class="unnumbered"><label/><m:math display="block"><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>113.318</m:mn><m:mo>+</m:mo><m:mn>2.209</m:mn><m:mi>t</m:mi></m:mrow></m:math></equation>
+<para id="fs-id1165137767812">Using technology, the correlation coefficient was calculated to be 0.9965, suggesting a very strong increasing linear trend.</para> 
+<para id="fs-id1165137444077">Using this to predict consumption in 2008 <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>14</m:mn><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow></m:math></para>
+<equation id="fs-id1165135435699" class="unnumbered"><label/><m:math display="block">
+ <m:mrow>
+  <m:mtable columnalign="left">
+   <m:mtr columnalign="left">
+    <m:mtd columnalign="left">
+     <m:mrow>
+      <m:mi>C</m:mi><m:mo stretchy="false">(</m:mo><m:mn>14</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>113.318</m:mn><m:mo>+</m:mo><m:mn>2.209</m:mn><m:mo stretchy="false">(</m:mo><m:mn>14</m:mn><m:mo stretchy="false">)</m:mo>
+     </m:mrow>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr columnalign="left">
+    <m:mtd columnalign="left">
+     <m:mrow>
+      <m:mtext>         </m:mtext><m:mo>=</m:mo><m:mn>144.244</m:mn>
+     </m:mrow>
+    </m:mtd>
+   </m:mtr>
+   
+  </m:mtable>
+ </m:mrow>
+</m:math>
+</equation><para id="fs-id1165135207471">The model predicts 144.244 billion gallons of gasoline consumption in 2008.</para></solution>
+</exercise></example></section><section id="fs-id1165137619593" class="key-concepts"><title>Key Concepts</title><list id="eip-idm921116624"><item><emphasis>Interpolation and extrapolation:</emphasis>
+<list id="eip-idm208491504">
+<item>The method of <term>interpolation</term> involves predicting a value inside the domain and/or range of the data.</item>
+<item>The method of <term>extrapolation</term> involves predicting a value outside the domain and/or range of the data.</item>
+</list>
+</item>
+
+<item><emphasis>A proportion is an equation of the form</emphasis> <m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>d</m:mi></m:mfrac></m:mrow></m:math>, where <m:math><m:mrow><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math>.
+</item>
+
+<item><emphasis>Univariate data has one variable and bivariate data has two variables</emphasis>
+</item>
+
+<item><emphasis>Scatterplots:</emphasis>
+<list id="eip-idm314712464"><item>Scatter plots show the relationship between two sets of data. See <link target-id="Example_02_04_01"/>.</item>
+<item>Scatter plots may represent linear or non-linear models.</item>
+<item>The line of best fit may be estimated or calculated, using a calculator or statistical software. See <link target-id="Example_02_04_02"/>.</item>
+<item>Interpolation can be used to predict values inside the domain and range of the data, whereas extrapolation can be used to predict values outside the domain and range of the data. See <link target-id="Example_02_04_03"/>.</item>
+<item>The correlation coefficient, <m:math><m:mrow><m:mi>r</m:mi><m:mo>,</m:mo></m:mrow></m:math> indicates the degree of linear relationship between data. See <link target-id="fs-id1165137443573"/>.</item>
+<item>A regression line best fits the data. See <link target-id="Example_02_04_06"/>.</item>
+ 
+</list></item>
+</list></section></content>
+
+<glossary>
+
+<definition id="fs-id1165137705061">
+<term>correlation coefficient</term>
+<meaning id="fs-id1165135250649">a value, <m:math><m:mrow><m:mi>r</m:mi><m:mo>,</m:mo></m:mrow></m:math> between –1 and 1 that indicates the degree of linear correlation of variables, or how closely a regression line fits a data set.</meaning>
+</definition>
+
+
+<definition id="fs-id1165137761665">
+<term>least squares regression</term>
+<meaning id="fs-id1165135192379">a statistical technique for fitting a line to data in a way that minimizes the differences between the line and data values</meaning>
+</definition>
+
+<definition id="fs-id1165137446440">
+<term>model breakdown</term>
+<meaning id="fs-id1165137446445">when a model no longer applies after a certain point</meaning> 
+</definition>
+</glossary>
+</document>

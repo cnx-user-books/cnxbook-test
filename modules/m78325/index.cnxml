@@ -1,0 +1,841 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Unit Rates and Conversions Lessons 5.A - 5.B</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m78325</md:content-id>
+  <md:title>Unit Rates and Conversions Lessons 5.A - 5.B</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Make unit conversions in the U.S. and metric system</item>
+<item>Use mixed units of measurement in the U.S. and metric system</item>
+<item>Convert between the U.S. and the metric systems of measurement</item>
+<item>Use weighted Averages</item>
+</list>
+This modules works with the Corequistie MAT 1043 (QR) and NCBO course.</md:abstract>
+  <md:uuid>d8f80e7e-c99d-4003-8a43-9adfa03c9f4b</md:uuid>
+</metadata>
+
+<content>
+<note id="eip-483"><label>Topics covered in this Module</label>
+<para id="eip-idm1083320480">In case you missed something in class, or just want to review a specific topic covered in this Module, here is a list of topics covered:</para><list id="eip-idm1455383664" list-type="enumerated" number-style="arabic"><item> Rate as a Fraction <link document="" target-id="eip-171"/></item>
+<item>Ratio of Two Measurements in Different Units <link document="" target-id="eip-719"/></item>
+<item>Find Unit Rates <link document="" target-id="eip-718"/></item>
+<item>Unit Conversions in US <link document="" target-id="fs-id1166497326923"/></item>
+<item>Unit Conversions in Metric <link document="" target-id="fs-id1424775"/></item>
+<item>Convert Between US and Metric <link document="" target-id="fs-id1292318"/></item>
+
+<item>Key Concepts  <link document="" target-id="eip-12"/></item>
+</list></note><para id="fs-id1684016">In this section we will see how to convert among different types of units, such as feet to miles or kilograms to pounds. The basic idea in all of the unit conversions will be to use a form of <m:math><m:mn>1</m:mn><m:mo>,</m:mo></m:math> the multiplicative identity, to change the units but not the value of a quantity.</para>
+<section id="eip-171"><title>Write a Rate as a Fraction  <footnote id="eip-idm854948032">Section material derived from Openstax Prealgebra: Decimals-Ratios and Rate</footnote></title><para id="fs-id2778087">Frequently we want to compare two different types of measurements, such as miles to gallons. To make this comparison, we use a <term>rate</term>. Examples of rates are <m:math><m:mrow><m:mn>120</m:mn></m:mrow></m:math> miles in <m:math><m:mn>2</m:mn></m:math> hours, <m:math><m:mrow><m:mn>160</m:mn></m:mrow></m:math> words in <m:math><m:mn>4</m:mn></m:math> minutes, and <m:math><m:mrow><m:mtext>$5</m:mtext></m:mrow></m:math> dollars per <m:math><m:mrow><m:mn>64</m:mn></m:mrow></m:math> ounces.</para><note id="fs-id1570366"><label>Rate</label>
+<para id="fs-id2294131">A <term>rate</term> compares two quantities of different units. A rate is usually written as a fraction.</para>
+</note><para id="fs-id1633093">When writing a fraction as a rate, we put the first given amount with its units in the numerator and the second amount with its units in the denominator. When rates are simplified, the units remain in the numerator and denominator.</para>
+<example id="fs-id2385626"><title>Writing Rate as a Fraction</title><exercise id="fs-id1806733">
+<problem id="fs-id1791031">
+<para id="fs-id1789298">Bob drove his car <m:math><m:mrow><m:mn>525</m:mn></m:mrow></m:math> miles in <m:math><m:mn>9</m:mn></m:math> hours. Write this rate as a fraction.</para>
+</problem>
+<solution id="fs-id1808201">
+<title>Solution</title>
+<para id="fs-id1294141"><table id="eip-id1168466124872" class="unnumbered unstyled" summary=".">
+<label/><tgroup cols="2">
+<tbody>
+ <row>
+ <entry/>
+ <entry><m:math><m:mtext>525 miles in 9 hours</m:mtext></m:math></entry>
+ </row>
+ <row>
+ <entry>Write as a fraction, with 525 miles in the numerator and 9 hours in the denominator.</entry>
+ <entry><m:math><m:mfrac><m:mrow><m:mtext>525 miles</m:mtext></m:mrow><m:mrow><m:mtext>9 hours</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry><m:math><m:mfrac><m:mrow><m:mtext>175 miles</m:mtext></m:mrow><m:mrow><m:mtext>3 hours</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+</tbody>
+</tgroup>
+</table></para><para id="fs-id2431104">So <m:math><m:mrow><m:mn>525</m:mn></m:mrow></m:math> miles in <m:math><m:mrow><m:mn>9</m:mn></m:mrow></m:math> hours is equivalent to <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>175 miles</m:mtext></m:mrow><m:mrow><m:mtext>3 hours</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example></section><section id="eip-719"><title>Ratios of Two Measurements in Different Units <footnote id="eip-idm1005174096">Section material derived from Openstax Prealgebra: Decimals-Ratios and Rate</footnote></title><para id="fs-id1405171">To find the ratio of two measurements, we must make sure the quantities have been measured with the same unit. If the measurements are not in the same units, we must first convert them to the same units.</para>
+<para id="fs-id2454510">We know that to simplify a fraction, we divide out common factors. Similarly in a ratio of measurements, we divide out the common unit.</para>
+<example id="fs-id1467508"><title>Writing Rate as a Ratio</title><exercise id="fs-id1948548">
+<problem id="fs-id2771848">
+<para id="fs-id1382579">The Americans with Disabilities Act (ADA) Guidelines for wheel chair ramps require a maximum vertical rise of <m:math><m:mn>1</m:mn></m:math> inch for every <m:math><m:mn>1</m:mn></m:math> foot of horizontal run. What is the ratio of the rise to the run?</para>
+</problem>
+<solution id="fs-id4327041">
+<title>Solution</title>
+<para id="fs-id2367827">In a ratio, the measurements must be in the same units. We can change feet to inches, or inches to feet. It is usually easier to convert to the smaller unit, since this avoids introducing more fractions into the problem.</para>
+<para id="fs-id1866914">Write the words that express the ratio.</para>
+<para id="fs-id2655027"><table id="eip-id1168467133951" class="unnumbered unstyled" summary=".">
+<label/><tgroup cols="2">
+<tbody>
+ <row>
+ <entry/>
+ <entry>Ratio of the rise to the run</entry>
+ </row>
+ <row>
+ <entry>Write the ratio as a fraction.</entry>
+ <entry><m:math><m:mfrac><m:mrow><m:mtext>rise</m:mtext></m:mrow><m:mrow><m:mtext>run</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+ <row>
+ <entry>Substitute in the given values.</entry>
+ <entry><m:math><m:mfrac><m:mrow><m:mtext>1 inch</m:mtext></m:mrow><m:mrow><m:mtext>1 foot</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+ <row>
+ <entry>Convert 1 foot to inches.</entry>
+ <entry><m:math><m:mfrac><m:mrow><m:mtext>1 inch</m:mtext></m:mrow><m:mrow><m:mtext>12 inches</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+ <row>
+ <entry>Simplify, dividing out common factors and units.</entry>
+ <entry><m:math><m:mfrac><m:mrow><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac></m:math></entry>
+ </row>
+</tbody>
+</tgroup>
+</table></para><para id="fs-id2754202">So the ratio of rise to run is <m:math><m:mn>1</m:mn></m:math> to <m:math><m:mrow><m:mn>12</m:mn><m:mo>.</m:mo></m:mrow></m:math> This means that the ramp should rise <m:math><m:mn>1</m:mn></m:math> inch for every <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> inches of horizontal run to comply with the guidelines.</para>
+</solution>
+</exercise>
+</example></section><section id="eip-718"><title>Find Unit Rates <footnote id="eip-idm947454336">Section material derived from Openstax Prealgebra: Decimals-Ratios and Rate</footnote></title><para id="fs-id2670535">In the last example, we calculated that Bob was driving at a rate of <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>175 miles</m:mtext></m:mrow><m:mrow><m:mtext>3 hours</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> This tells us that every three hours, Bob will travel <m:math><m:mrow><m:mn>175</m:mn></m:mrow></m:math> miles. This is correct, but not very useful. We usually want the rate to reflect the number of miles in one hour. A rate that has a denominator of <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> unit is referred to as a <term>unit rate</term>.</para>
+<note id="fs-id2496681"><label>Unit Rate</label>
+<para id="fs-id1312313">A <term>unit rate</term> is a rate with denominator of <m:math><m:mn>1</m:mn></m:math> unit.</para>
+</note><para id="fs-id2269026">Unit rates are very common in our lives. For example, when we say that we are driving at a speed of <m:math><m:mrow><m:mn>68</m:mn></m:mrow></m:math> miles per hour we mean that we travel <m:math><m:mrow><m:mn>68</m:mn></m:mrow></m:math> miles in <m:math><m:mn>1</m:mn></m:math> hour. We would write this rate as <m:math><m:mrow><m:mn>68</m:mn></m:mrow></m:math> miles/hour (read <m:math><m:mrow><m:mn>68</m:mn></m:mrow></m:math> miles per hour). The common abbreviation for this is <m:math><m:mrow><m:mn>68</m:mn></m:mrow></m:math> mph. Note that when no number is written before a unit, it is assumed to be <m:math><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1524236">So <m:math><m:mrow><m:mn>68</m:mn></m:mrow></m:math> miles/hour really means <m:math><m:mrow><m:mtext>68 miles/1 hour.</m:mtext></m:mrow></m:math></para>
+<para id="fs-id2678932">Two rates we often use when driving can be written in different forms, as shown:</para>
+<table id="fs-id2696361" class="unnumbered" frame="none" summary="A table is shown with 5 columns and 3 rows. The header row labels the columns: “Example”, “Rate”, “Write”, “Abbreviate”, and “Read”. Under the “Example” column is 68 miles in 1 hour and 36 miles to 1 gallon. Under the “Rate” column is 68 miles over 1 hour and 36 miles over 1 gallon. Under the “Write” column is 68 miles/hour and 36 miles/gallon. Under the “Abbreviate” column is 68 mph and 36 mpg. Under the “Read” column is 68 miles per hour and 36 miles per gallon.">
+<label/>
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry align="left">Example</entry>
+<entry align="left">Rate</entry>
+<entry align="left">Write</entry>
+<entry align="left">Abbreviate</entry>
+<entry align="left">Read</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left"><m:math><m:mn>68</m:mn></m:math> miles in <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> hour</entry>
+<entry align="left"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>68 miles</m:mtext></m:mrow><m:mrow><m:mtext>1 hour</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mn>68</m:mn></m:math> miles/hour</entry>
+<entry align="left"><m:math><m:mn>68</m:mn></m:math> mph</entry>
+<entry align="left"><m:math><m:mrow><m:mtext>68 miles per hour</m:mtext></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mn>36</m:mn></m:math> miles to <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> gallon</entry>
+<entry align="left"><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>36 miles</m:mtext></m:mrow><m:mrow><m:mtext>1 gallon</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></entry>
+<entry align="left"><m:math><m:mn>36</m:mn></m:math> miles/gallon</entry>
+<entry align="left"><m:math><m:mn>36</m:mn></m:math> mpg</entry>
+<entry align="left"><m:math><m:mtext>36 miles per gallon</m:mtext></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1608041">Another example of unit rate that you may already know about is hourly pay rate. It is usually expressed as the amount of money earned for one hour of work. For example, if you are paid <m:math><m:mrow><m:mtext>$12.50</m:mtext></m:mrow></m:math> for each hour you work, you could write that your hourly (unit) pay rate is <m:math><m:mrow><m:mtext>$12.50/hour</m:mtext></m:mrow></m:math> (read <m:math><m:mrow><m:mtext>$12.50</m:mtext></m:mrow></m:math> per hour.) </para><para id="eip-536">To convert a rate to a unit rate, we divide the numerator by the denominator. This gives us a denominator of <m:math><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math></para><example id="fs-id1883330"><title>Determining a Rate</title><exercise id="fs-id1515362">
+<problem id="fs-id2483482">
+<para id="fs-id3447878">Anita was paid <m:math><m:mrow><m:mtext>$384</m:mtext></m:mrow></m:math> last week for working <m:math><m:mrow><m:mtext>32 hours</m:mtext><m:mo>.</m:mo></m:mrow></m:math> What is Anita’s hourly pay rate?</para>
+</problem>
+<solution id="fs-id1569517">
+<title>Solution</title>
+<para id="fs-id2260925"><table id="eip-id1168467375743" class="unnumbered unstyled" summary=".">
+<label/><tgroup cols="2">
+<tbody>
+ <row>
+ <entry>Start with a rate of dollars to hours. Then divide.</entry>
+ <entry><m:math><m:mtext>$384 last week for 32 hours</m:mtext></m:math></entry>
+ </row>
+ <row>
+ <entry>Write as a rate.</entry>
+ <entry><m:math><m:mfrac><m:mrow><m:mn>$384</m:mn></m:mrow><m:mrow><m:mtext>32 hours</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+ <row>
+ <entry>Divide the numerator by the denominator.</entry>
+ <entry><m:math><m:mfrac><m:mrow><m:mn>$12</m:mn></m:mrow><m:mrow><m:mtext>1 hour</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+ <row>
+ <entry>Rewrite as a rate.</entry>
+ <entry><m:math><m:mn>$12</m:mn><m:mo>/</m:mo><m:mtext>hour</m:mtext></m:math></entry>
+ </row>
+</tbody>
+</tgroup>
+</table></para><para id="fs-id3319256">Anita’s hourly pay rate is <m:math><m:mrow><m:mtext>$12</m:mtext></m:mrow></m:math> per hour.</para>
+</solution>
+</exercise>
+</example><example id="fs-id1726969"><title>Determining a Rate</title><exercise id="fs-id1786369">
+<problem id="fs-id2270461">
+<para id="fs-id2644746">Sven drives his car <m:math><m:mrow><m:mn>455</m:mn></m:mrow></m:math> miles, using <m:math><m:mrow><m:mn>14</m:mn></m:mrow></m:math> gallons of gasoline. How many miles per gallon does his car get?</para>
+</problem>
+<solution id="fs-id2751169">
+<title>Solution</title>
+<para id="fs-id1576461">Start with a rate of miles to gallons. Then divide.</para>
+<para id="fs-id1898586"><table id="eip-id1168468682341" class="unnumbered unstyled" summary=".">
+<label/><tgroup cols="2">
+<tbody>
+ <row>
+ <entry/>
+ <entry><m:math><m:mtext>455 miles to 14 gallons of gas</m:mtext></m:math></entry>
+ </row>
+ <row>
+ <entry>Write as a rate.</entry>
+ <entry><m:math><m:mfrac><m:mrow><m:mtext>455 miles</m:mtext></m:mrow><m:mrow><m:mtext>14 gallons</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+ <row>
+ <entry>Divide 455 by 14 to get the unit rate.</entry>
+ <entry><m:math><m:mfrac><m:mrow><m:mtext>32.5 miles</m:mtext></m:mrow><m:mrow><m:mtext>1 gallon</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+</tbody>
+</tgroup>
+</table></para><para id="fs-id2138997">Sven’s car gets <m:math><m:mrow><m:mn>32.5</m:mn></m:mrow></m:math> miles/gallon, or <m:math><m:mrow><m:mn>32.5</m:mn></m:mrow></m:math> mpg.</para>
+</solution>
+</exercise>
+</example></section><section id="fs-id1166497326923"><title>Make Unit Conversions in the U.S. System <footnote id="eip-idm446229264">Section material derived from Openstax Prealgebra: The Properties of Real Numbers-Systems of Measurement</footnote></title><para id="fs-id1166497443860">There are two systems of measurement commonly used around the world. Most countries use the metric system. The United States uses a different system of measurement, usually called the U.S. system. We will look at the U.S. system first.</para>
+<para id="fs-id1166493722010">The U.S. system of measurement uses units of inch, foot, yard, and mile to measure length and pound and ton to measure weight. For capacity, the units used are cup, pint, quart and gallons. Both the U.S. system and the metric system measure time in seconds, minutes, or hours.</para><para id="fs-id1166484083360">The equivalencies among the basic units of the U.S. system of measurement are listed in <link target-id="fs-id1627796"/>. The table also shows, in parentheses, the common abbreviations for each measurement.</para>
+<table id="fs-id1627796" summary="The table is labeled in the first row as “U.S. System Units”,and organizes the different types of units of measurement. The second row is a header row with two columns. The first column is labeled “Length”,and the second is labeled “Volume”. The third row contains conversions. Under the “Length”,column are the length conversions “1 foot equals 12 inches”, “1 yard equals 3 feet”, and “1 mile equals 5280 feet”. There are unit abbreviations f t for feet, i n for inches, y d for yards, and m i for miles.  Under the “Volume”,column are the volume conversions “3 teaspoons equals 1 tablespoon”, “16 tablespoons equals 1 cup”, “1 cup equals 8 fluid ounces”, “1 pint equals 2 cups”, “1 quart equals 2 pints”, and “1 gallon equals 4 quarts”. There are unit abbreviations: lowercase t for teaspoon, uppercase t for tablespoon, uppercase c for cup, f l o z for fluid ounces, p t for pint, q t for quart and g a l for gallon. Row four is a header row with two columns. The first column is labeled “Weight”,and the second is labeled “Time”. The third row contains conversions. Under the “Weight”,column are the length conversions “1 pound equals 16 ounces”,and “1 ton equals 2000 pounds”. There are unit abbreviations: l b for pounds and o z for ounces. Under the “Time”,column are the time conversions “1 minute equals 60 seconds”, “1 hour equals 60 minutes”, “1 day equals 24 hours”, “1 week equals 7 days”, and “1 year equals 365 days”. There are unit abbreviations: m i n for minute, s for second, h for hour, w k for week and y r for year.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2">U.S. System Units</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left"><emphasis effect="bold">Length</emphasis></entry>
+<entry align="left"><emphasis effect="bold">Volume</emphasis></entry>
+</row>
+<row valign="top">
+<entry align="left" valign="middle"><m:math><m:mn>1</m:mn></m:math> foot (ft) = <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> inches (in)<newline/><m:math><m:mn>1</m:mn></m:math> yard (yd) = <m:math><m:mn>3</m:mn></m:math> feet (ft)<newline/><m:math><m:mn>1</m:mn></m:math> mile (mi) = <m:math><m:mrow><m:mn>5280</m:mn></m:mrow></m:math> feet (ft)</entry>
+<entry align="left" valign="top"><m:math><m:mn>3</m:mn></m:math> teaspoons (t) = <m:math><m:mn>1</m:mn></m:math> tablespoon (T)<newline/><m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math> Tablespoons (T) = <m:math><m:mn>1</m:mn></m:math> cup (C)<newline/><m:math><m:mn>1</m:mn></m:math> cup (C) = <m:math><m:mn>8</m:mn></m:math> fluid ounces (fl oz)<newline/><m:math><m:mn>1</m:mn></m:math> pint (pt) = <m:math><m:mn>2</m:mn></m:math> cups (C)<newline/><m:math><m:mn>1</m:mn></m:math> quart (qt) = <m:math><m:mn>2</m:mn></m:math> pints (pt)<newline/><m:math><m:mn>1</m:mn></m:math> gallon (gal) = <m:math><m:mn>4</m:mn></m:math> quarts (qt)</entry>
+</row>
+<row valign="top">
+<entry align="left"><emphasis effect="bold">Weight</emphasis></entry>
+<entry align="left"><emphasis effect="bold">Time</emphasis></entry>
+</row>
+<row valign="top">
+<entry align="left" valign="middle"><m:math><m:mn>1</m:mn></m:math> pound (lb) = <m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math> ounces (oz)<newline/><m:math><m:mn>1</m:mn></m:math> ton = <m:math><m:mrow><m:mn>2000</m:mn></m:mrow></m:math> pounds (lb)</entry>
+<entry align="left" valign="top"><m:math><m:mn>1</m:mn></m:math> minute (min) = <m:math><m:mrow><m:mn>60</m:mn></m:mrow></m:math> seconds (s)<newline/><m:math><m:mn>1</m:mn></m:math> hour (h) = <m:math><m:mrow><m:mn>60</m:mn></m:mrow></m:math> minutes (min)<newline/><m:math><m:mn>1</m:mn></m:math> day = <m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math> hours (h)<newline/><m:math><m:mn>1</m:mn></m:math> week (wk) = <m:math><m:mn>7</m:mn></m:math> days<newline/><m:math><m:mn>1</m:mn></m:math> year (yr) = <m:math><m:mrow><m:mn>365</m:mn></m:mrow></m:math> days</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1490058">In many real-life applications, we need to convert between units of measurement. We will use the identity property of multiplication to do these conversions. We’ll restate the Identity Property of Multiplication here for easy reference.</para>
+<equation id="fs-id1166497370188" class="unnumbered"><label/><m:math><m:mrow><m:mtext>For any real number</m:mtext><m:mspace width="0.2em"/><m:mi>a</m:mi><m:mo>,</m:mo><m:mspace width="2em"/><m:mi>a</m:mi><m:mo>·</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mi>a</m:mi><m:mspace width="2em"/><m:mn>1</m:mn><m:mo>·</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mi>a</m:mi></m:mrow></m:math></equation><para id="fs-id847073">To use the identity property of multiplication, we write <m:math><m:mn>1</m:mn></m:math> in a form that will help us convert the units. For example, suppose we want to convert inches to feet. We know that <m:math><m:mn>1</m:mn></m:math> foot is equal to <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> inches, so we can write <m:math><m:mn>1</m:mn></m:math> as the fraction <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>1 ft</m:mtext></m:mrow><m:mrow><m:mtext>12 in</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> When we multiply by this fraction, we do not change the value but just change the units.</para>
+<para id="fs-id1681534">But <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>12 in</m:mtext></m:mrow><m:mrow><m:mtext>1 ft</m:mtext></m:mrow></m:mfrac></m:mrow></m:math> also equals <m:math><m:mn>1</m:mn><m:mo>.</m:mo></m:math> How do we decide whether to multiply by <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>1 ft</m:mtext></m:mrow><m:mrow><m:mtext>12 in</m:mtext></m:mrow></m:mfrac></m:mrow></m:math> or <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>12 in</m:mtext></m:mrow><m:mrow><m:mtext>1 ft</m:mtext></m:mrow></m:mfrac><m:mo>?</m:mo></m:mrow></m:math> We choose the fraction that will make the units we want to convert <emphasis effect="italics">from</emphasis> divide out. For example, suppose we wanted to convert <m:math><m:mrow><m:mn>60</m:mn></m:mrow></m:math> inches to feet. If we choose the fraction that has inches in the denominator, we can eliminate the inches.</para>
+
+<equation id="fs-id1692887" class="unnumbered"><label/><m:math><m:mrow><m:mn>60</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>in</m:mtext></m:mrow></m:menclose><m:mo>·</m:mo><m:mfrac><m:mrow><m:mtext>1 ft</m:mtext></m:mrow><m:mrow><m:mn>12</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>in</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mo>=</m:mo><m:mtext>5 ft</m:mtext></m:mrow></m:math></equation><para id="fs-id1440904">On the other hand, if we wanted to convert <m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math> feet to inches, we would choose the fraction that has feet in the denominator.</para>
+<equation id="fs-id1503585" class="unnumbered"><label/><m:math><m:mrow><m:mtext>5 ft</m:mtext><m:mo>·</m:mo><m:mfrac><m:mrow><m:mtext>12 in</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>ft</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mo>=</m:mo><m:mtext>60 in</m:mtext></m:mrow></m:math></equation><para id="fs-id1166497179983">We treat the unit words like factors and ‘divide out’ common units like we do common factors.</para>
+<note id="fs-id1474986" class="howto"><label>Make Unit Conversions</label>
+<list id="eip-id1168467154948" list-type="enumerated" number-style="arabic" class="stepwise"><item>Multiply the measurement to be converted by <m:math><m:mn>1</m:mn><m:mo>;</m:mo></m:math> write <m:math><m:mn>1</m:mn></m:math> as a fraction relating the units given and the units needed.</item>
+<item>Multiply.</item>
+<item>Simplify the fraction, performing the indicated operations and removing the common units.</item></list></note><example id="fs-id972809"><title>Unit Conversions</title><exercise id="fs-id1166491297028"><problem id="fs-id1869793">
+<para id="fs-id1546188">Mary Anne is <m:math><m:mrow><m:mn>66</m:mn></m:mrow></m:math> inches tall. What is her height in feet?</para>
+</problem>
+<solution id="fs-id1508756">
+<title>Solution</title>
+<table id="eip-id1168466282719" class="unnumbered unstyled" summary=".">
+<label/>
+
+
+<tgroup cols="2">
+
+
+<tbody>
+<row>
+ <entry>Convert 66 inches into feet.</entry>
+ <entry/>
+</row>
+<row>
+ <entry>Multiply the measurement to be converted by 1.</entry>
+ <entry><m:math><m:mn>66</m:mn></m:math> inches <m:math><m:mo>·</m:mo><m:mn>1</m:mn></m:math></entry>
+</row>
+
+
+
+ <row>
+ <entry>Write 1 as a fraction relating the units given and the units needed.</entry>
+ <entry><m:math><m:mrow><m:mtext>66 inches</m:mtext><m:mo>·</m:mo><m:mfrac><m:mrow><m:mtext>1 foot</m:mtext></m:mrow><m:mrow><m:mtext>12 inches</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+
+
+<row>
+ <entry>Multiply.</entry>
+ <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>66 inches</m:mtext><m:mo>·</m:mo><m:mtext>1 foot</m:mtext></m:mrow><m:mrow><m:mtext>12 inches</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+
+
+
+<row>
+ <entry>Simplify the fraction.</entry>
+ <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>66</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>inches</m:mtext></m:mrow></m:menclose><m:mo>·</m:mo><m:mtext>1 foot</m:mtext></m:mrow><m:mrow><m:mn>12</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>inches</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+ <entry>  </entry>
+ <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>66 feet</m:mtext></m:mrow><m:mrow><m:mn>12</m:mn><m:mspace width="0.2em"/></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+ <entry>  </entry>
+ <entry><m:math><m:mrow><m:mtext>5.5 feet</m:mtext></m:mrow></m:math></entry>
+</row>
+</tbody>
+
+</tgroup>
+</table>
+
+<para id="fs-id1945494">Notice that the when we simplified the fraction, we first divided out the inches.</para>
+<para id="fs-id1166494770564">Mary Anne is <m:math><m:mrow><m:mn>5.5</m:mn></m:mrow></m:math> feet tall.</para>
+</solution>
+</exercise></example><para id="fs-id1166490856042">When we use the Identity Property of Multiplication to convert units, we need to make sure the units we want to change from will divide out. Usually this means we want the conversion fraction to have those units in the denominator.</para>
+<example id="fs-id1398296"><title>Unit Conversions</title><exercise id="fs-id1466319"><problem id="fs-id1466995">
+<para id="fs-id1394280">Ndula, an elephant at the San Diego Safari Park, weighs almost <m:math><m:mrow><m:mn>3.2</m:mn></m:mrow></m:math> tons. Convert her weight to pounds.</para>
+<figure id="CNX_BMath_Figure_07_05_001"><media id="fs-id1456217" alt="A photograph of an adult elephant.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_001.jpg"/>
+</media>
+<caption>(credit: Guldo Da Rozze, Flickr)</caption></figure></problem>
+<solution id="fs-id1215290">
+<title>Solution</title>
+<para id="fs-id1460621">We will convert <m:math><m:mrow><m:mn>3.2</m:mn></m:mrow></m:math> tons into pounds, using the equivalencies in <link target-id="fs-id1627796"/>. We will use the Identity Property of Multiplication, writing <m:math><m:mn>1</m:mn></m:math> as the fraction <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>2000 pounds</m:mtext></m:mrow><m:mrow><m:mtext>1 ton</m:mtext></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+
+
+
+<table id="eip-id1168467461254" class="unnumbered unstyled" summary=".">
+<label/><tgroup cols="2">
+<tbody>
+ <row>
+   <entry>  </entry>
+   <entry><m:math><m:mrow><m:mtext>3.2 tons</m:mtext></m:mrow></m:math></entry>
+ </row>
+  <row>
+   <entry>Multiply the measurement to be converted by 1.</entry>
+   <entry><m:math><m:mrow><m:mtext>3.2 tons</m:mtext><m:mo>·</m:mo><m:mn>1</m:mn></m:mrow></m:math></entry>
+ </row>
+   <row>
+   <entry>Write 1 as a fraction relating tons and pounds.</entry>
+   <entry><m:math><m:mtext>3.2 tons</m:mtext><m:mo>·</m:mo><m:mfrac><m:mrow><m:mtext>2000 lbs</m:mtext></m:mrow><m:mrow><m:mtext>1 ton</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+ <row>
+   <entry>Simplify.</entry>
+   <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>3.2</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>tons</m:mtext></m:mrow></m:menclose><m:mo>·</m:mo><m:mtext>2000 lbs</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>ton</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac></m:mrow></m:math></entry>
+ </row>
+ <row>
+   <entry>Multiply.</entry>
+   <entry><m:math><m:mrow><m:mtext>6400 lbs</m:mtext></m:mrow></m:math></entry>
+ </row>
+  <row>
+   <entry>  </entry>
+   <entry>Ndula weighs almost 6,400 pounds.</entry>
+ </row>
+</tbody>
+
+</tgroup>
+</table>
+
+
+
+</solution>
+</exercise></example><para id="fs-id1166491401847">Sometimes to convert from one unit to another, we may need to use several other units in between, so we will need to multiply several fractions.</para>
+<example id="fs-id1525587"><title>Unit Conversions</title><exercise id="fs-id1241332"><problem id="fs-id1482053">
+<para id="fs-id1475259">Juliet is going with her family to their summer home. She will be away for <m:math><m:mn>9</m:mn></m:math> weeks. Convert the time to minutes.</para>
+</problem>
+<solution id="fs-id1452183">
+<title>Solution</title>
+<para id="fs-id1166494584692">To convert weeks into minutes, we will convert weeks to days, days to hours, and then hours to minutes. To do this, we will multiply by conversion factors of <m:math><m:mn>1</m:mn><m:mo>.</m:mo></m:math><newline/>
+
+
+<table id="eip-id1168468646927" class="unnumbered unstyled" summary="Write 9 weeks as the fraction 9 weeks over 1. Multiply by 1 using the fractions 7 days over 1 week, 24 hours over 1 day, and 60 minutes over 1 hour. The expression becomes 9 weeks over 1 times 7 days over 1 week times 24 hours over 1 day times 60 minutes over 1 hour. Cancel the common units of weeks, days, and hours. Multiply to get 9 times 7 times 24 times 60 minutes all over 1 times 1 times 1 times 1. Perform the multiplication to get 90,720 minutes over 1 which simplifies to 90,720 minutes."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>  </entry>
+   <entry><m:math><m:mtext>9 weeks</m:mtext></m:math></entry>
+ </row>
+  <row>
+   <entry>Write 1 as <m:math><m:mfrac><m:mrow><m:mn>7</m:mn><m:mspace width="0.2em"/><m:mtext>days</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>week</m:mtext></m:mrow></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mrow><m:mn>24</m:mn><m:mspace width="0.2em"/><m:mtext>hours</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>day</m:mtext></m:mrow></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mrow><m:mn>60</m:mn><m:mspace width="0.2em"/><m:mtext>minutes</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>hour</m:mtext></m:mrow></m:mfrac></m:math>.</entry>
+
+   <entry><media id="eip-id1168469695497" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_021_img-01.png"/></media></entry>
+ </row>
+   <row>
+   <entry>Cancel common units.</entry>
+   <entry><media id="eip-id1168467445588" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_021_img-02.png"/></media></entry>
+ </row>
+ <row>
+   <entry>Multiply.</entry>
+   <entry><m:math><m:mfrac><m:mrow><m:mn>9</m:mn><m:mo>·</m:mo><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>24</m:mn><m:mo>·</m:mo><m:mn>60</m:mn><m:mspace width="0.2em"/><m:mtext>min</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>90</m:mn><m:mo>,</m:mo><m:mn>720</m:mn><m:mspace width="0.2em"/><m:mtext>min</m:mtext></m:math></entry>
+</row>
+ <row>
+   <entry>  </entry>
+   <entry>Juliet will be away for 90,720 minutes.</entry>
+</row>
+</tbody>
+
+
+
+
+
+
+
+</tgroup>
+</table></para></solution>
+</exercise></example><example id="fs-id1423712"><title>Unit Conversions</title><exercise id="fs-id1166491054371"><problem id="fs-id1166478987595">
+<para id="fs-id1258336">How many fluid ounces are in <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> gallon of milk?</para>
+<figure id="CNX_BMath_Figure_07_05_003"><media id="fs-id1166491054643" alt="A photograph of a milk display in a grocery store.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_003.jpg"/>
+</media>
+
+
+<caption>(credit: www.bluewaikiki.com, Flickr)</caption></figure></problem>
+<solution id="fs-id1166482689215">
+<title>Solution</title>
+<para id="fs-id1474351">Use conversion factors to get the right units: convert gallons to quarts, quarts to pints, pints to cups, and cups to fluid ounces.</para>
+<table id="eip-id1168467247162" class="unnumbered unstyled" summary="Write 9 weeks as the fraction 9 weeks over 1. Multiply by 1 using the fractions 7 days over 1 week, 24 hours over 1 day, and 60 minutes over 1 hour. The expression becomes 9 weeks over 1 times 7 days over 1 week times 24 hours over 1 day times 60 minutes over 1 hour. Cancel the common units of weeks, days, and hours. Multiply to get 9 times 7 times 24 times 60 minutes all over 1 times 1 times 1 times 1. Perform the multiplication to get 90,720 minutes over 1 which simplifies to 90,720 minutes.">
+<label/><tgroup cols="2">
+
+
+<tbody>
+ <row>
+   <entry>  </entry>
+   <entry>1 gallon</entry>
+ </row>
+  <row>
+   <entry>Multiply the measurement to be converted by 1.</entry>
+   <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>1 gal</m:mtext></m:mrow><m:mn>1</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mtext>4 qt</m:mtext></m:mrow><m:mrow><m:mtext>1 gal</m:mtext></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mtext>2 pt</m:mtext></m:mrow><m:mrow><m:mtext>1 qt</m:mtext></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mtext>2 C</m:mtext></m:mrow><m:mrow><m:mtext>1 pt</m:mtext></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mtext>8 fl oz</m:mtext></m:mrow><m:mrow><m:mtext>1 C</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></entry>
+ </row>
+   <row>
+   <entry>Simplify.</entry>
+   <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>gal</m:mtext></m:mrow></m:menclose></m:mrow><m:mn>1</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>qt</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>gal</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>pt</m:mtext></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>qt</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mtext>C</m:mtext></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mrow><m:mtext>pt</m:mtext></m:mrow></m:menclose></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mtext>8 fl oz</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:menclose notation="updiagonalstrike"><m:mtext>C</m:mtext></m:menclose></m:mrow></m:mfrac></m:mrow></m:math></entry>
+ </row>
+   <row>
+   <entry>Multiply.</entry>
+   <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>4</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>·</m:mo><m:mtext>8 fl oz</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry>
+ </row>
+ <row>
+   <entry>Simplify.</entry>
+   <entry>128 fluid ounces</entry>
+  </row>
+ <row>
+   <entry>  </entry>
+   <entry>There are 128 fluid ounces in a gallon.</entry>
+ </row>
+</tbody>
+
+</tgroup>
+</table>
+
+
+
+</solution>
+</exercise></example></section><section id="fs-id1424775"><title>Make Unit Conversions in the Metric System <footnote id="eip-idm608064528">Section material derived from Openstax Prealgebra: The Properties of Real Numbers-Systems of Measurement</footnote></title><para id="fs-id1561154">In the metric system, units are related by powers of <m:math><m:mrow><m:mn>10</m:mn><m:mo>.</m:mo></m:mrow></m:math> The root words of their names reflect this relation. For example, the basic unit for measuring length is a meter. One kilometer is <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> meters; the prefix <emphasis effect="italics">kilo-</emphasis> means thousand. One centimeter is <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math> of a meter, because the prefix <emphasis effect="italics">centi-</emphasis> means one one-hundredth (just like one cent is <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math> of one dollar).</para><para id="fs-id1492759">The equivalencies of measurements in the metric system are shown in <link target-id="fs-id1448508"/>. The common abbreviations for each measurement are given in parentheses.</para>
+<table id="fs-id1448508" summary="The table is labeled in the first row as “Metric Measurements”,and organizes the different types of units of measurement. The second row is a header row with three columns. The first column is labeled “Length”, the second is labeled “Mass”,and the third is labeled “Volume/Capacity”. The third and fourth rows list the different conversions for each type of measurement. Under the “Length”,column in row three is the conversions: 1 kilometer equals 1000 meters, 1 hectometer equals 100 meters, 1 dekameter equals 10 meters, 1 meter equals 1 meter, 1 decimeter equals 0.1 meter, 1 centimeter equals 0.01 meter, and 1 millimeter equals 0.001 meter. In row four is the conversions: 1 meter equals 100 centimeters and 1 meter equals 1000 millimeters. There  are unit abbreviations: k m for kilometer, h m for hectometer, d a m for dekameter, m for meter, d m for decimeter, c m for centimeter and m m for millimeter. Under the “Mass”,column in row three is the conversions: 1 kilogram equals 1000 grams, 1 hectogram equals 100 grams, 1 dekagram equals 10 grams, 1 gram equals 1 gram, 1 decigram equals 0.1 gram, 1 centigram equals 0.01 gram, and 1 milligram equals 0.001 gram. In row four is the conversions: 1 gram equals 100 centigrams and 1 gram equals 1000 milligrams. There  are unit abbreviations: k g for kilogram, h g for hectogram, d a g for dekagram, g for gram, d g for decigram, c g for centigram and m g for milligram. Under the “Volume/Capacity”,column in row three is the conversions: 1 kiloliter equals 1000 liters, 1 hectoliter equals 100 liters, 1 dekaliter equals 10 liters, 1 liter equals 1 liter, 1 deciliter equals 0.1 liter, 1 centiliter equals 0.01 liter, and 1 milliliter equals 0.001 liter. In row four is the conversions: 1 liter equals 100 centiliters and 1 liter equals 1000 milliliters. There  are unit abbreviations: k L for kiloliter, h L for hectoliter, d a L for dekaliter, L for liter, d L for deciliter, c L for centiliter and m L for milliliter. In all of these abbreviations the l for liter is capitalized.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c3">Metric Measurements</entry>
+</row>
+<row valign="top">
+<entry align="left">Length</entry>
+<entry align="left">Mass</entry>
+<entry align="left">Volume/Capacity</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> kilometer (km) = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> hectometer (hm) = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> dekameter (dam) = <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> meter (m) = <m:math><m:mn>1</m:mn></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> decimeter (dm) = <m:math><m:mrow><m:mn>0.1</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> centimeter (cm) = <m:math><m:mrow><m:mn>0.01</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> millimeter (mm) = <m:math><m:mrow><m:mn>0.001</m:mn></m:mrow></m:math> m</entry>
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> kilogram (kg) = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> hectogram (hg) = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> dekagram (dag) = <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> gram (g) = <m:math><m:mn>1</m:mn></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> decigram (dg) = <m:math><m:mrow><m:mn>0.1</m:mn></m:mrow></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> centigram (cg) = <m:math><m:mrow><m:mn>0.01</m:mn></m:mrow></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> milligram (mg) = <m:math><m:mrow><m:mn>0.001</m:mn></m:mrow></m:math> g</entry>
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> kiloliter (kL) = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> hectoliter (hL) = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> dekaliter (daL) = <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> liter (L) = <m:math><m:mn>1</m:mn></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> deciliter (dL) = <m:math><m:mrow><m:mn>0.1</m:mn></m:mrow></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> centiliter (cL) = <m:math><m:mrow><m:mn>0.01</m:mn></m:mrow></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> milliliter (mL) = <m:math><m:mrow><m:mn>0.001</m:mn></m:mrow></m:math> L</entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> meter = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> centimeters<newline/><m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> meter = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> millimeters</entry>
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> gram = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> centigrams<newline/><m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> gram = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> milligrams</entry>
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> liter = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> centiliters<newline/><m:math><m:mn>1</m:mn></m:math> liter = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> milliliters</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1166497457588">To make conversions in the metric system, we will use the same technique we did in the U.S. system. Using the identity property of multiplication, we will multiply by a conversion factor of one to get to the correct units.</para>
+<para id="fs-id1724392">Have you ever run a <m:math><m:mtext>5 k</m:mtext></m:math> or <m:math><m:mrow><m:mtext>10 k</m:mtext></m:mrow></m:math> race? The lengths of those races are measured in kilometers. The metric system is commonly used in the United States when talking about the length of a race.</para>
+<example id="fs-id1878803"><title>Unit Conversions</title><exercise id="fs-id1271022"><problem id="fs-id1505910">
+<para id="fs-id1509078">Nick ran a <m:math><m:mrow><m:mtext>10-kilometer</m:mtext></m:mrow></m:math> race. How many meters did he run?</para>
+<figure id="CNX_BMath_Figure_07_05_010"><media id="fs-id1768593" alt="A photograph of 8 male runners in a track race.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_010.jpg"/>
+</media>
+
+<caption>(credit: William Warby, Flickr)</caption></figure>
+
+
+</problem>
+<solution id="fs-id1166493708752">
+<title>Solution</title>
+<para id="fs-id1166479045246">We will convert kilometers to meters using the Identity Property of Multiplication and the equivalencies in <link target-id="fs-id1448508"/>.<newline/>
+
+<table id="eip-id1168468595505" class="unnumbered unstyled" summary="Write the expression 10 kilometers times 1. Write 1 as a fraction relating kilometers and meters. The fraction will be 1000 meters over 1 kilometer. The expression becomes 10 kilometers times 1000 meters over 1 kilometer. Cancel the common units of kilometers. Multiply to get 10 times 1000 meters all over 1. Perform the multiplication to get 10,000 meters over 1 which simplifies to 10,000 meters."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>  </entry>
+   <entry>10 kilometers</entry>
+ </row>
+  <row>
+   <entry>Multiply the measurement to be converted by 1.</entry>
+   <entry><media id="eip-id1168467312666" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_024_img-01.png"/></media></entry>
+ </row>
+   <row>
+   <entry>Write 1 as a fraction relating kilometers and meters.</entry>
+   <entry><media id="eip-id1168467479165" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_024_img-02.png"/></media></entry>
+ </row>
+   <row>
+   <entry>Simplify.</entry>
+   <entry><media id="eip-id1168468417266" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_024_img-03.png"/></media></entry>
+ </row>
+ <row>
+   <entry>Multiply.</entry>
+   <entry>10,000 m</entry>
+  </row>
+ <row>
+   <entry>  </entry>
+   <entry>Nick ran 10,000 meters.</entry>
+ </row>
+</tbody>
+
+
+
+</tgroup>
+</table></para></solution>
+</exercise></example><example id="fs-id1407331"><title>Unit Conversions</title><exercise id="fs-id1166478995221"><problem id="fs-id1956018">
+<para id="fs-id1451916">Eleanor’s newborn baby weighed <m:math><m:mrow><m:mn>3200</m:mn></m:mrow></m:math> grams. How many kilograms did the baby weigh?</para>
+</problem>
+<solution id="fs-id1166497195440">
+<title>Solution</title>
+<para id="fs-id1404261">We will convert grams to kilograms.<newline/>
+
+
+<table id="eip-id1168468398524" class="unnumbered unstyled" summary="Write the expression 3200 grams times 1. Write 1 as a fraction relating kilograms and grams. The fraction will be 1 kilogram over 1000 grams. The expression becomes 3200 grams times 1 kilogram over 1000 grams. Cancel the common units of grams. Multiply to get 3200 times 1 kilograms all over 1000. Perform the multiplication to get 3200 kilograms over 1000 which simplifies to 3.2 kilograms."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>  </entry>
+   <entry><media id="eip-id1168468427939" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_025_img-01.png"/></media></entry>
+ </row>
+  <row>
+   <entry>Multiply the measurement to be converted by 1.</entry>
+   <entry><media id="eip-id1168468741390" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_025_img-02.png"/></media></entry>
+ </row>
+   <row>
+   <entry>Write 1 as a fraction relating kilograms and grams.</entry>
+   <entry><media id="eip-id1168467446655" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_025_img-03.png"/></media></entry>
+ </row>
+   <row>
+   <entry>Simplify.</entry>
+   <entry><media id="eip-id1168468274057" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_025_img-04.png"/></media></entry>
+ </row>
+ <row>
+   <entry>Multiply.</entry>
+   <entry><media id="eip-id1168468279825" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_025_img-05.png"/></media></entry>
+  </row>
+   <row>
+   <entry>Divide.</entry>
+   <entry align="center">3.2 kilograms</entry>
+  </row>
+<row>
+  <entry/>
+  <entry align="center">The baby weighed <m:math><m:mrow><m:mn>3.2</m:mn></m:mrow></m:math> kilograms.</entry>
+ </row>
+</tbody>
+
+
+
+
+
+</tgroup>
+</table></para>
+
+</solution>
+</exercise></example><para id="fs-id1166497311214">Since the <term class="no-emphasis">metric system</term> is based on multiples of ten, conversions involve multiplying by multiples of ten. In <link class="target-chapter" document="m53047">Decimal Operations</link>, we learned how to simplify these calculations by just moving the decimal.</para><para id="fs-id1166498082831">To multiply by <m:math><m:mrow><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>100</m:mn><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>1000</m:mn><m:mo>,</m:mo></m:mrow></m:math> we move the decimal to the right <m:math><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>3</m:mn></m:mrow></m:math> places, respectively. To multiply by <m:math><m:mrow><m:mn>0.1</m:mn><m:mo>,</m:mo><m:mn>0.01</m:mn><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>0.001</m:mn></m:mrow></m:math> we move the decimal to the left <m:math><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>3</m:mn></m:mrow></m:math> places respectively.</para>
+<para id="fs-id897900">We can apply this pattern when we make measurement conversions in the metric system.</para>
+<para id="fs-id1166494738717">In <link target-id="fs-id1407331"/>, we changed <m:math><m:mrow><m:mn>3200</m:mn></m:mrow></m:math> grams to kilograms by multiplying by <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>1000</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>0.001</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math> This is the same as moving the decimal <m:math><m:mn>3</m:mn></m:math> places to the left.</para>
+<media id="fs-id1484478" alt="Multiplying 3200 by 1 over 1000 gives 3.2. Notice that the answer, 3.2, is similar to the original value, 3200, just with the decimal moved three places to the left.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_015_img.jpg"/>
+</media>
+<example id="fs-id1514601"><title>Unit Conversions</title><exercise id="fs-id1166498082996"><problem id="fs-id1166484058698">
+<para id="fs-id1166498088950">Convert: <span class="token">ⓐ</span><m:math><m:mrow><m:mspace width="0.2em"/><m:mn>350</m:mn></m:mrow></m:math> liters to kiloliters <span class="token">ⓑ</span><m:math><m:mrow><m:mspace width="0.2em"/><m:mn>4.1</m:mn></m:mrow></m:math> liters to milliliters.</para></problem>
+<solution id="fs-id1244319">
+<title>Solution</title>
+<para id="fs-id1483016"><span class="token">ⓐ</span> We will convert liters to kiloliters. In <link target-id="fs-id1448508"/>, we see that <m:math><m:mtext>1 kiloliter</m:mtext><m:mo>=</m:mo><m:mtext>1000 liters</m:mtext><m:mo>.</m:mo></m:math><newline/>
+
+
+<table id="eip-id1168466338427" class="unnumbered unstyled" summary="Beginning with 350 liters, multiply by 1 writing 1 as a fraction that relates liters to kiloliters. The fraction will be 1 kiloliter over 1000 liters. The expression becomes 350 liters times 1 kiloliter over 1000 liters. Cancel the common units of liters. Multiplying by 1 over 1000 is the same as just moving the decimal 3 units to the left. Taking 350 and moving the decimal 3 places to the left gives 0.35. The answer is 0.35 kiloliters."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry/>
+   <entry>350 L</entry>
+ </row>
+ <row>
+   <entry>Multiply by 1, writing 1 as a fraction relating liters to kiloliters.</entry>
+   <entry><media id="eip-id1168469585156" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_026_img-01.png"/></media></entry>
+ </row>
+ <row>
+   <entry>Simplify.</entry>
+   <entry><media id="eip-id1168466001240" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_026_img-02.png"/></media></entry>
+ </row>
+   <row>
+   <entry>Move the decimal 3 units to the left.</entry>
+   <entry><media id="eip-id1168469657238" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_026_img-03.png"/></media></entry>
+ </row>
+ <row>
+   <entry/>
+   <entry>0.35 kL</entry>
+ </row>
+</tbody>
+
+
+</tgroup>
+</table>
+
+</para>
+
+<para id="fs-id1394495"><span class="token">ⓑ</span> We will convert liters to milliliters. In <link target-id="fs-id1448508"/>, we see that <m:math><m:mtext>1 liter</m:mtext><m:mo>=</m:mo><m:mn>1000</m:mn><m:mspace width="0.2em"/><m:mtext>milliliters.</m:mtext></m:math><newline/>
+
+
+<table id="eip-id1168467184678" class="unnumbered unstyled" summary="Beginning with 4.1 liters, multiply by 1 writing 1 as a fraction that relates liters to milliliters. The fraction will be 1000 milliliters over 1 liter. The expression becomes 4.1 liters times 1000 milliliter over 1 liter. Cancel the common units of liters. Multiplying by 1000 is the same as just moving the decimal 3 units to the right. Taking 4.1 and moving the decimal 3 places to the right gives 4100. The answer is 4100 milliliters."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry/>
+   <entry>4.1 L</entry>
+ </row>
+ <row>
+   <entry>Multiply by 1, writing 1 as a fraction relating milliliters to liters.</entry>
+   <entry><media id="eip-id1168468449224" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_027_img-01.png"/></media></entry>
+ </row>
+ <row>
+   <entry>Simplify.</entry>
+   <entry><media id="eip-id1168468271064" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_027_img-02.png"/></media></entry>
+ </row>
+   <row>
+   <entry>Move the decimal 3 units to the left.</entry>
+   <entry><media id="eip-id1168468454057" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_07_05_027_img-03.png"/></media></entry>
+ </row>
+ <row>
+   <entry/>
+   <entry>4100 mL</entry>
+ </row>
+</tbody>
+
+
+
+
+</tgroup>
+</table></para></solution>
+</exercise></example></section><section id="fs-id1292318"><title>Convert Between U.S. and Metric Systems of Measurement <footnote id="eip-idm530070224">Section material derived from Openstax Prealgebra: The Properties of Real Numbers-Systems of Measurement</footnote></title><para id="fs-id1166494760094">Many measurements in the United States are made in metric units. A drink may come in <m:math><m:mtext>2-liter</m:mtext></m:math> bottles, calcium may come in <m:math><m:mrow><m:mtext>500-mg</m:mtext></m:mrow></m:math> capsules, and we may run a <m:math><m:mtext>5-K</m:mtext></m:math> race. To work easily in both systems, we need to be able to convert between the two systems.</para>
+<para id="fs-id1334389"><link target-id="fs-id1412303"/> shows some of the most common conversions.</para>
+<table id="fs-id1412303" summary="The table is labeled in the first row as “Conversion Factors between U.S. and Metric Systems”,and organizes the different types of units of measurement. The second row is a header row with three columns. The first column is labeled “Length”, the second is labeled “Weight”,and the third is labeled “Volume”. The third row list the different conversions for each type of measurement. Under the “Length”,column in row three is the conversions: 1 inch equals 2.5 centimeters, 1 foot equals 0.305 meter, 1 yard equals 0.914 meter, 1 mile equals 1.61 kilometers, and 1 meter equals 3.28 feet. Under the “Weight”,column in row three is the conversions: 1 pound equals 0.45 kilogram, 1 ounce equals 28 grams, and 1 kilogram equals 2.2 pounds. Under the “Volume”,column in row three is the conversions: 1 quart equals 0.95 liter, 1 fluid ounce equals 30 milliliters, and 1 liter equals 1.06 quarts.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c3">Conversion Factors Between U.S. and Metric Systems</entry>
+</row>
+<row valign="top">
+<entry align="left">Length</entry>
+<entry align="left">Weight</entry>
+<entry align="left">Volume</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> in = <m:math><m:mrow><m:mn>2.54</m:mn></m:mrow></m:math> cm<newline/><m:math><m:mn>1</m:mn></m:math> ft = <m:math><m:mrow><m:mn>0.305</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> yd = <m:math><m:mrow><m:mn>0.914</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> mi = <m:math><m:mrow><m:mn>1.61</m:mn></m:mrow></m:math> km<newline/><newline/><newline/><m:math><m:mn>1</m:mn></m:math> m = <m:math><m:mrow><m:mn>3.28</m:mn></m:mrow></m:math> ft</entry>
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> lb = <m:math><m:mrow><m:mn>0.45</m:mn></m:mrow></m:math> kg<newline/><m:math><m:mn>1</m:mn></m:math> oz = <m:math><m:mrow><m:mn>28</m:mn></m:mrow></m:math> g<newline/><newline/><newline/><newline/><newline/><m:math><m:mn>1</m:mn></m:math> kg = <m:math><m:mn>2.2</m:mn></m:math> lb</entry>
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> qt = <m:math><m:mrow><m:mn>0.95</m:mn></m:mrow></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> fl oz = <m:math><m:mrow><m:mn>30</m:mn></m:mrow></m:math> mL<newline/><newline/><newline/><newline/><newline/><m:math><m:mn>1</m:mn></m:math> L = <m:math><m:mrow><m:mn>1.06</m:mn></m:mrow></m:math> qt</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1280569">We make conversions between the systems just as we do within the systems—by multiplying by unit conversion factors.</para>
+<example id="fs-id858098"><title>Unit Conversions</title><exercise id="fs-id1382886"><problem id="fs-id1241635">
+<para id="fs-id1687286">Lee’s water bottle holds <m:math><m:mrow><m:mn>500</m:mn></m:mrow></m:math> mL of water. How many fluid ounces are in the bottle? Round to the nearest tenth of an ounce.</para>
+</problem>
+<solution id="fs-id1445168">
+<title>Solution</title>
+<table id="eip-id1168466006710" class="unnumbered unstyled" summary=".">
+<label/><tgroup cols="2">
+
+
+<tbody>
+ <row>
+   <entry/>
+   <entry>500 mL</entry>
+ </row>
+ <row>
+   <entry>Multiply by a unit conversion factor relating mL and ounces.</entry>
+   <entry><m:math><m:mn>500</m:mn><m:mspace width="0.2em"/><m:mtext>mL</m:mtext><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>fl oz</m:mtext></m:mrow><m:mrow><m:mn>30</m:mn><m:mspace width="0.2em"/><m:mtext>mL</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+ <row>
+   <entry>Simplify.</entry>
+   <entry><m:math><m:mfrac><m:mrow><m:mn>500</m:mn><m:mspace width="0.2em"/><m:mtext>fl oz</m:mtext></m:mrow><m:mrow><m:mn>30</m:mn></m:mrow></m:mfrac></m:math></entry>
+ </row>
+   <row>
+   <entry>Divide.</entry>
+   <entry><m:math><m:mn>16.7</m:mn><m:mspace width="0.2em"/><m:mtext>fl. oz.</m:mtext></m:math></entry>
+ </row>
+ <row>
+   <entry/>
+   <entry>The water bottle holds 16.7 fluid ounces.</entry>
+ </row>
+</tbody>
+
+</tgroup>
+</table>
+
+
+</solution>
+</exercise></example><para id="fs-id1166483686028">The conversion factors in <link target-id="fs-id1412303"/> are not exact, but the approximations they give are close enough for everyday purposes. In <link target-id="fs-id858098"/>, we rounded the number of fluid ounces to the nearest tenth.</para>
+<example id="fs-id1219066"><title>Unit Conversions</title><exercise id="fs-id1946769"><problem id="fs-id1241212">
+<para id="fs-id1362532">Soleil lives in Minnesota but often travels in Canada for work. While driving on a Canadian highway, she passes a sign that says the next rest stop is in <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> kilometers. How many miles until the next rest stop? Round your answer to the nearest mile.</para>
+</problem>
+<solution id="fs-id1412054">
+<title>Solution</title>
+<table id="eip-id1168468500910" class="unnumbered unstyled" summary=".">
+<label/><tgroup cols="2">
+
+
+<tbody>
+ <row>
+   <entry/>
+   <entry>100 kilometers</entry>
+ </row>
+ <row>
+   <entry>Multiply by a unit conversion factor relating kilometers and miles.</entry>
+   <entry><m:math><m:mn>100</m:mn><m:mspace width="0.2em"/><m:mtext>kilometers</m:mtext><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mile</m:mtext></m:mrow><m:mrow><m:mn>1.61</m:mn><m:mspace width="0.2em"/><m:mtext>kilometers</m:mtext></m:mrow></m:mfrac></m:math><newline/>
+   <m:math><m:mn>100</m:mn><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>mi</m:mtext></m:mrow><m:mrow><m:mn>1.61</m:mn><m:mspace width="0.2em"/><m:mtext>km</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+ <row>
+   <entry>Simplify.</entry>
+    <entry><m:math><m:mfrac><m:mrow><m:mn>100</m:mn><m:mspace width="0.2em"/><m:mtext>mi</m:mtext></m:mrow><m:mrow><m:mn>1.61</m:mn></m:mrow></m:mfrac></m:math></entry>
+ </row>
+   <row>
+   <entry>Divide.</entry>
+   <entry>62 mi</entry>
+ </row>
+ <row>
+   <entry/>
+   <entry>It is about 62 miles to the next rest stop.</entry>
+ </row>
+</tbody>
+
+</tgroup>
+</table>
+
+</solution>
+</exercise></example></section><section id="eip-12"><title>Key Concepts</title><list id="eip-idm220891728"><item><emphasis>Making Unit Conversions</emphasis>
+<list id="eip-idm473109312"><item>Multiply the measurement to be converted by <m:math><m:mn>1</m:mn><m:mo>;</m:mo></m:math> write <m:math><m:mn>1</m:mn></m:math> as a fraction relating the units given and the units needed.</item>
+<item>Multiply.</item>
+<item>Simplify the fraction, performing the indicated operations and removing the common units.</item></list></item>
+<item><emphasis>Conversions within US units</emphasis>
+<table id="conversionstable" summary="The table is labeled in the first row as “U.S. System Units”,and organizes the different types of units of measurement. The second row is a header row with two columns. The first column is labeled “Length”,and the second is labeled “Volume”. The third row contains conversions. Under the “Length”,column are the length conversions “1 foot equals 12 inches”, “1 yard equals 3 feet”, and “1 mile equals 5280 feet”. There are unit abbreviations f t for feet, i n for inches, y d for yards, and m i for miles.  Under the “Volume”,column are the volume conversions “3 teaspoons equals 1 tablespoon”, “16 tablespoons equals 1 cup”, “1 cup equals 8 fluid ounces”, “1 pint equals 2 cups”, “1 quart equals 2 pints”, and “1 gallon equals 4 quarts”. There are unit abbreviations: lowercase t for teaspoon, uppercase t for tablespoon, uppercase c for cup, f l o z for fluid ounces, p t for pint, q t for quart and g a l for gallon. Row four is a header row with two columns. The first column is labeled “Weight”,and the second is labeled “Time”. The third row contains conversions. Under the “Weight”,column are the length conversions “1 pound equals 16 ounces”,and “1 ton equals 2000 pounds”. There are unit abbreviations: l b for pounds and o z for ounces. Under the “Time”,column are the time conversions “1 minute equals 60 seconds”, “1 hour equals 60 minutes”, “1 day equals 24 hours”, “1 week equals 7 days”, and “1 year equals 365 days”. There are unit abbreviations: m i n for minute, s for second, h for hour, w k for week and y r for year.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c2">U.S. System Units</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left"><emphasis effect="bold">Length</emphasis></entry>
+<entry align="left"><emphasis effect="bold">Volume</emphasis></entry>
+</row>
+<row valign="top">
+<entry align="left" valign="middle"><m:math><m:mn>1</m:mn></m:math> foot (ft) = <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> inches (in)<newline/><m:math><m:mn>1</m:mn></m:math> yard (yd) = <m:math><m:mn>3</m:mn></m:math> feet (ft)<newline/><m:math><m:mn>1</m:mn></m:math> mile (mi) = <m:math><m:mrow><m:mn>5280</m:mn></m:mrow></m:math> feet (ft)</entry>
+<entry align="left" valign="top"><m:math><m:mn>3</m:mn></m:math> teaspoons (t) = <m:math><m:mn>1</m:mn></m:math> tablespoon (T)<newline/><m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math> Tablespoons (T) = <m:math><m:mn>1</m:mn></m:math> cup (C)<newline/><m:math><m:mn>1</m:mn></m:math> cup (C) = <m:math><m:mn>8</m:mn></m:math> fluid ounces (fl oz)<newline/><m:math><m:mn>1</m:mn></m:math> pint (pt) = <m:math><m:mn>2</m:mn></m:math> cups (C)<newline/><m:math><m:mn>1</m:mn></m:math> quart (qt) = <m:math><m:mn>2</m:mn></m:math> pints (pt)<newline/><m:math><m:mn>1</m:mn></m:math> gallon (gal) = <m:math><m:mn>4</m:mn></m:math> quarts (qt)</entry>
+</row>
+<row valign="top">
+<entry align="left"><emphasis effect="bold">Weight</emphasis></entry>
+<entry align="left"><emphasis effect="bold">Time</emphasis></entry>
+</row>
+<row valign="top">
+<entry align="left" valign="middle"><m:math><m:mn>1</m:mn></m:math> pound (lb) = <m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math> ounces (oz)<newline/><m:math><m:mn>1</m:mn></m:math> ton = <m:math><m:mrow><m:mn>2000</m:mn></m:mrow></m:math> pounds (lb)</entry>
+<entry align="left" valign="top"><m:math><m:mn>1</m:mn></m:math> minute (min) = <m:math><m:mrow><m:mn>60</m:mn></m:mrow></m:math> seconds (s)<newline/><m:math><m:mn>1</m:mn></m:math> hour (h) = <m:math><m:mrow><m:mn>60</m:mn></m:mrow></m:math> minutes (min)<newline/><m:math><m:mn>1</m:mn></m:math> day = <m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math> hours (h)<newline/><m:math><m:mn>1</m:mn></m:math> week (wk) = <m:math><m:mn>7</m:mn></m:math> days<newline/><m:math><m:mn>1</m:mn></m:math> year (yr) = <m:math><m:mrow><m:mn>365</m:mn></m:mrow></m:math> days</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</item>
+
+<item><emphasis>Converting within the metric system</emphasis>
+<table id="metricconversion" summary="The table is labeled in the first row as “Metric Measurements”,and organizes the different types of units of measurement. The second row is a header row with three columns. The first column is labeled “Length”, the second is labeled “Mass”,and the third is labeled “Volume/Capacity”. The third and fourth rows list the different conversions for each type of measurement. Under the “Length”,column in row three is the conversions: 1 kilometer equals 1000 meters, 1 hectometer equals 100 meters, 1 dekameter equals 10 meters, 1 meter equals 1 meter, 1 decimeter equals 0.1 meter, 1 centimeter equals 0.01 meter, and 1 millimeter equals 0.001 meter. In row four is the conversions: 1 meter equals 100 centimeters and 1 meter equals 1000 millimeters. There  are unit abbreviations: k m for kilometer, h m for hectometer, d a m for dekameter, m for meter, d m for decimeter, c m for centimeter and m m for millimeter. Under the “Mass”,column in row three is the conversions: 1 kilogram equals 1000 grams, 1 hectogram equals 100 grams, 1 dekagram equals 10 grams, 1 gram equals 1 gram, 1 decigram equals 0.1 gram, 1 centigram equals 0.01 gram, and 1 milligram equals 0.001 gram. In row four is the conversions: 1 gram equals 100 centigrams and 1 gram equals 1000 milligrams. There  are unit abbreviations: k g for kilogram, h g for hectogram, d a g for dekagram, g for gram, d g for decigram, c g for centigram and m g for milligram. Under the “Volume/Capacity”,column in row three is the conversions: 1 kiloliter equals 1000 liters, 1 hectoliter equals 100 liters, 1 dekaliter equals 10 liters, 1 liter equals 1 liter, 1 deciliter equals 0.1 liter, 1 centiliter equals 0.01 liter, and 1 milliliter equals 0.001 liter. In row four is the conversions: 1 liter equals 100 centiliters and 1 liter equals 1000 milliliters. There  are unit abbreviations: k L for kiloliter, h L for hectoliter, d a L for dekaliter, L for liter, d L for deciliter, c L for centiliter and m L for milliliter. In all of these abbreviations the l for liter is capitalized.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry align="center" namest="c1" nameend="c3">Metric Measurements</entry>
+</row>
+<row valign="top">
+<entry align="left">Length</entry>
+<entry align="left">Mass</entry>
+<entry align="left">Volume/Capacity</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> kilometer (km) = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> hectometer (hm) = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> dekameter (dam) = <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> meter (m) = <m:math><m:mn>1</m:mn></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> decimeter (dm) = <m:math><m:mrow><m:mn>0.1</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> centimeter (cm) = <m:math><m:mrow><m:mn>0.01</m:mn></m:mrow></m:math> m<newline/><m:math><m:mn>1</m:mn></m:math> millimeter (mm) = <m:math><m:mrow><m:mn>0.001</m:mn></m:mrow></m:math> m</entry>
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> kilogram (kg) = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> hectogram (hg) = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> dekagram (dag) = <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> gram (g) = <m:math><m:mn>1</m:mn></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> decigram (dg) = <m:math><m:mrow><m:mn>0.1</m:mn></m:mrow></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> centigram (cg) = <m:math><m:mrow><m:mn>0.01</m:mn></m:mrow></m:math> g<newline/><m:math><m:mn>1</m:mn></m:math> milligram (mg) = <m:math><m:mrow><m:mn>0.001</m:mn></m:mrow></m:math> g</entry>
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> kiloliter (kL) = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> hectoliter (hL) = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> dekaliter (daL) = <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> liter (L) = <m:math><m:mn>1</m:mn></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> deciliter (dL) = <m:math><m:mrow><m:mn>0.1</m:mn></m:mrow></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> centiliter (cL) = <m:math><m:mrow><m:mn>0.01</m:mn></m:mrow></m:math> L<newline/><m:math><m:mn>1</m:mn></m:math> milliliter (mL) = <m:math><m:mrow><m:mn>0.001</m:mn></m:mrow></m:math> L</entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> meter = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> centimeters<newline/><m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> meter = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> millimeters</entry>
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> gram = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> centigrams<newline/><m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> gram = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> milligrams</entry>
+<entry align="left"><m:math><m:mn>1</m:mn></m:math> liter = <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> centiliters<newline/><m:math><m:mn>1</m:mn></m:math> liter = <m:math><m:mrow><m:mn>1000</m:mn></m:mrow></m:math> milliliters</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</item>
+
+
+</list></section></content>
+
+<glossary>
+
+<definition id="metric">
+<term>Metric System</term>
+<meaning id="metricmean">
+a system of measurement in which units are related by powers of <m:math><m:mn>10</m:mn></m:math>.
+</meaning>
+</definition>
+
+<definition id="ussystem">
+<term>U.S. System</term>
+<meaning id="ussystemmean">
+a system of measurement used in the United States.
+</meaning>
+</definition>
+
+<definition id="fs-id4357876">
+<term>Ratio</term>
+<meaning id="fs-id4357881">A ratio compares two numbers or two quantities that are measured with the same unit. The ratio of <m:math><m:mi>a</m:mi></m:math> to <m:math><m:mi>b</m:mi></m:math> is written <m:math><m:mi>a</m:mi></m:math> to <m:math><m:mi>b</m:mi></m:math>, <m:math><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac></m:math>, or <m:math><m:mi>a</m:mi><m:mo>:</m:mo><m:mi>b</m:mi></m:math>.</meaning>
+</definition>
+
+
+<definition id="fs-id4357886">
+<term>Rate</term>
+<meaning id="fs-id4357891">A rate compares two quantities of different units. A rate is usually written as a fraction.</meaning>
+</definition>
+
+<definition id="fs-id4357905">
+<term>Unit Rate</term>
+<meaning id="fs-id4357910">A unit rate is a rate with denominator of 1 unit.</meaning>
+</definition>
+
+<definition id="fs-wtdavg">
+<term>Weighted Average</term>
+<meaning id="fs-id435">An average whose data values are multipled by a predetermined weight before calculation of teh average.</meaning>
+</definition>
+
+</glossary>
+</document>

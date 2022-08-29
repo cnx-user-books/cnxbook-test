@@ -1,29 +1,14 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="space64 Pham">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12134</md:content-id>
-  <md:title>TEST</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>78e8f7fe-1f0a-43ee-a1e2-eec192745f1a</md:uuid>
-<md:slug>test</md:slug>
-</metadata>
-
+    <md:content-id>col12134</md:content-id>
+    <md:title>TEST</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>78e8f7fe-1f0a-43ee-a1e2-eec192745f1a</md:uuid>
+    <md:slug>test</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m63784"/>
-        
-      
-    
+    <col:module document="m63784"/>
   </col:content>
 </col:collection>
